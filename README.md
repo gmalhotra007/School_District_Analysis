@@ -34,6 +34,7 @@ Displays detailed analysis of each school:
 
 
 3)How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
 Earlier Thomas High School Overall Passing prcentage was 65.07 but after replaing the overall percentage got increased to 90.63 which made `Thomas High School` in the `Top Five Schools` and in the second position. 
 
 - The percentage passing math increased
