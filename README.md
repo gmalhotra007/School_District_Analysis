@@ -19,7 +19,7 @@ Using pandas and NumPy for data manipulation and analysis
 - `Average reading score` 81.9
 - `Overall passing percentage` 65
 
-<img src = "School_District_Analysis/District_Summary.png"> </img>
+<img src = "District_Summary.png"> </img>
 
 2)How is the school summary affected?
 
