@@ -24,6 +24,7 @@ Using pandas and NumPy for data manipulation and analysis
 2)How is the school summary affected?
 
  ### *School summary analysis:*
+Displays detailed analysis of each school:
 - School Type 
 - Per Student Budget
 - Average Math and Reading score of each school
@@ -33,6 +34,8 @@ Using pandas and NumPy for data manipulation and analysis
 
 
 3)How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+Earlier Thomas High School Overall Passing prcentage was 65.07 but after replaing the overall percentage got increased to 90.63 which made `Thomas High School` in the `Top Five Schools` and in the second position. 
+
 - The percentage passing math increased
 - Percentage of passing reading increased
 - Percentage of overall passing increased
